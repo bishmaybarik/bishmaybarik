@@ -1,25 +1,11 @@
 ## Hello, I'm Bishmay Barik
 
-I'm currently pursuing an M.Sc. in Economics at Shiv Nadar University, with a keen interest in macroeconomics and growth theory. My academic journey has led me to explore various dimensions of developmental macroeconomics, and I’m particularly focused on research related to caste discrimination and other pertinent social issues.
+I'm currently pursuing an M.Sc. in Economics at Shiv Nadar University, where I focus on macroeconomics and growth theory. My academic journey has deepened my interest in developmental macroeconomics, and I’m particularly drawn to research topics like caste discrimination and other pressing social issues.
 
-### Research Interests
-- **Macroeconomic Theory**: My primary area of interest, where I aspire to deepen my understanding and contribute to the field through future research.
-- **Growth Theory**: Exploring the dynamics that drive economic growth and development, especially in emerging economies.
-- **Developmental Macroeconomics**: A recent inclination, particularly in understanding how macroeconomic policies impact long-term development.
+I have a strong technical background with proficiency in Stata for data analysis and econometric modeling, and MATLAB for numerical computing and algorithm development. Lately, I’ve been working on enhancing my skills in Python, particularly in the areas of data science and machine learning.
 
-### Technical Skills
-- **Stata**: Proficient in data analysis and econometric modeling.
-- **MATLAB**: Experienced in numerical computing and algorithm development.
-- **Python**: Currently enhancing my skills, particularly in data science and machine learning applications.
+Outside of my academic and technical pursuits, I enjoy photography. Capturing moments through the lens is a creative outlet for me, allowing me to balance my analytical work with a bit of artistry.
 
-### Hobbies
-When I’m not immersed in research or coding, I enjoy photography. Capturing moments through the lens serves as a creative outlet for me.
+Looking ahead, I am eager to continue my academic journey by pursuing a Ph.D. in Economics, with a focus on macroeconomic theory. I am passionate about contributing to the existing literature and helping to shape our understanding of complex economic phenomena.
 
-### Career Aspirations
-I am passionate about continuing my academic journey and pursuing a Ph.D. in Economics, with a focus on macroeconomic theory. I aim to contribute to the existing literature and help shape the understanding of complex economic phenomena.
-
-### Let's Connect
-- **Email**: [bishmaykbarik@gmail.com](mailto:bishmaykbarik@gmail.com)
-- **Website**: [bishmaybarik.github.io](https://bishmaybarik.github.io)
-
-If you share similar research interests or would like to discuss economics, feel free to reach out.
+If you share similar research interests or would like to discuss economics—or just about anything else—I’d love to connect! You can reach me at [bishmaykbarik@gmail.com](mailto:bishmaykbarik@gmail.com) or visit my website at [bishmaybarik.github.io](https://bishmaybarik.github.io).
