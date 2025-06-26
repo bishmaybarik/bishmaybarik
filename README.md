@@ -1,9 +1,9 @@
-## Hello, I'm Bishmay Barik
+## Hey people, I'm Bishmay
 
-I'm currently pursuing an M.Sc. in Economics at Shiv Nadar University, where I focus on macroeconomics and growth theory. My academic journey has deepened my interest in developmental macroeconomics, and I’m particularly drawn to research topics like caste discrimination and other pressing social issues.
+I have completed my Master's in Economics from Shiv Nadar University, India, and will be joining the Centre for Advanced Financial Research and Learning (CAFRAL), Reserve Bank of India, as a Research Associate starting mid-July. Currently, I work as a part-time Research Assistant at [QuantEcon](https://quantecon.org/) and as a Data Science Intern at [Development Data Lab](https://www.devdatalab.org/). 
 
-I have experience using Stata for data analysis and econometric modeling, and I’m comfortable working with MATLAB for numerical computing and algorithm development. I’m also in the process of building my skills in Python, especially in data science and machine learning applications.
+My interests lie primarily in macroeconomic theory, computational macroeconomics, and exploring the use of AI, LLMs, and neural networks in Economics.
 
-Looking ahead, I am eager to continue my academic journey by pursuing a Ph.D. in Economics, with a focus on macroeconomic theory. I am passionate about contributing to the existing literature and helping to shape our understanding of complex economic phenomena.
+I primarily work with Python and Stata, and I have experience in both applied empirical and development-focused projects in India, as well as theoretical work in various economic domains.
 
-If you share similar research interests or would like to discuss economics—or just about anything else—I’d love to connect! You can reach me at [bishmaykbarik@gmail.com](mailto:bishmaykbarik@gmail.com) or visit my website at [bishmaybarik.github.io](https://bishmaybarik.github.io).
+I'm open to opportunities and happy to collaborate on projects. Please feel free to reach out to me at [bishmaykbarik@gmail.com](mailto:bishmaykbarik@gmail.com). To explore more about my interests, research experience, or projects, check out my webpage [here](https://bishmaybarik.github.io/).
